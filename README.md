@@ -1,6 +1,6 @@
 ## Hi, I'm Hemalatha Prakasam.
 
-I am a front-end web developer with a Master's degree in computer science. I recently completed a full stack development certificate from UNCC Bootcamp, where I acquired skills in JavaScript, CSS, React.js, responsive web design, and more.
+I am a Software developer with a Master's degree in computer science. I recently completed a full stack development certificate from UNCC Bootcamp, where I acquired skills in JavaScript, CSS, React.js, responsive web design, and more.
 
 I develop new features and infrastructure to meet rapidly emerging business and project needs. I participate in all aspects of agile software development, including design, implementation, and deployment. I collaborate with designers, front-end engineers, and back-end engineers to create reliable APIs, and I use Slack, GitHub, and frequent videoconferences to collaborate across time zones.
 
